@@ -94,3 +94,10 @@ traj_plot = plot(x1, y1; c=:black, lw=3)
 plot!(size=(600,600))
 scatter!(traj_plot, x1[1:step:end], y1[1:step:end]; c=:red, legend=false)
 ```
+
+```bash
+using Pkg
+Pkg.activate(".")
+Pkg.add(["JuMP", "Ipopt", "Plots"])
+include("tp1_quatre_methodes.jl")
+```
