@@ -9,7 +9,14 @@
 
 [CM 1](cm/cm1.pdf)
 
+[CM 2](cm/cm2.pdf)
+
+[CM 3](cm/cm3.pdf)
+
 [TP 1 - Navigation](tp1/tp1.md)
+([solution](tp1/tp1-sol.md))
+([solution 3 arcs](tp1/tp1-3arcs-sol.md))
+([trailers](https://ct.gitlabpages.inria.fr/gallery/nav/nav-julia-gen.html))
 
 [TP 2 - Tir simple](tp2/tp2.md)
 
