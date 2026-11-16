@@ -13,6 +13,12 @@
 
 [CM 3](cm/cm3.pdf)
 
+[CM 4](cm/cm4.pdf)
+
+[CM 5](cm/cm5.pdf)
+
+[CM 6](cm/cm6.pdf)
+
 [TP 1 - Navigation](tp1/tp1.md)
 ([solution](tp1/tp1-sol.md))
 ([solution 3 arcs](tp1/tp1-3arcs-sol.md))
@@ -35,9 +41,9 @@
 
 - 2 EX CC (tous deux coeff. 1)
 
-[Exam CC no. 1 (2025-26)](exam-cc1-old/exam-cc1.pdf)
+[Exam CC no. 1 (2025-26)](exam-cc1-old/exam-cc1.md)
 
-[Exam CC no. 2 (2025-26)](exam-cc2-old/exam-cc2.pdf)
+[Exam CC no. 2 (2025-26)](exam-cc2-old/exam-cc2.md)
 
 # Références
 
