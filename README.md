@@ -3,21 +3,13 @@
 # Commande optimale
 # 2026-27
 
+<img src="nav.gif" alt="Navigation" width="400">
+
 [Discussion](https://github.com/pns-mam/commande/discussions/1)
 
 [Plan du cours](cm/cm.md)
 
-[CM 1](cm/cm1.pdf)
-
-[CM 2](cm/cm2.pdf)
-
-[CM 3](cm/cm3.pdf)
-
-[CM 4](cm/cm4.pdf)
-
-[CM 5](cm/cm5.pdf)
-
-[CM 6](cm/cm6.pdf)
+[CM 1](cm/cm1.pdf) · [CM 2](cm/cm2.pdf) · [CM 3](cm/cm3.pdf) · [CM 4](cm/cm4.pdf) · [CM 5](cm/cm5.pdf) · [CM 6](cm/cm6.pdf) · [CM 7](cm/cm7.pdf)
 
 [TP 1 - Navigation](tp1/tp1.md)
 ([solution](tp1/tp1-sol.md))
@@ -25,6 +17,8 @@
 ([trailers](https://ct.gitlabpages.inria.fr/gallery/nav/nav-julia-gen.html))
 
 [TP 2 - Tir simple](tp2/tp2.md)
+([solution](tp2/tp2-sol.md))
+([Kepler](https://control-toolbox.org/Kepler.jl))
 
 [TP 3 - MPC](tp3/tp3.md)
 
@@ -34,12 +28,13 @@
 
 # Organisation et intervenants
 
-- 10 séances de 3H
-- Intervenant [J.-B. Caillau](mailto:jean-baptiste.caillau@univ-cotedazur.fr)
+10 séances de 3H
+
+Intervenant [J.-B. Caillau](mailto:jean-baptiste.caillau@univ-cotedazur.fr)
 
 # Évaluation
 
-- 2 EX CC (tous deux coeff. 1)
+2 EX CC (tous deux coeff. 1)
 
 [Exam CC no. 1 (2025-26)](exam-cc1-old/exam-cc1.md)
 
